@@ -11,3 +11,9 @@ E:\Master\Year1\Semester2\WSMT\WSMT-5pb\WSMT-5pb\bin\Debug\WSMT-5pb.pdb
 E:\Master\Year1\Semester2\WSMT\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.exe
 E:\Master\Year1\Semester2\WSMT\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.pdb
 E:\Master\Year1\Semester2\WSMT\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.csprojAssemblyReference.cache
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\bin\Debug\WSMT-5pb.exe.config
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\bin\Debug\WSMT-5pb.exe
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\bin\Debug\WSMT-5pb.pdb
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.csprojAssemblyReference.cache
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.exe
+E:\Master\Year1\Semester2\WSMT\WSMT-Projects\5Programs\C#\WSMT-5pb\WSMT-5pb\obj\Debug\WSMT-5pb.pdb

@@ -17,6 +17,7 @@ namespace WSMT_5pb
         {
             PrintPostOrder(CreateBinaryTree());
         }
+
         void PrintPostOrder(CustomNode node)
         {
             if (node == null)

@@ -1,4 +1,4 @@
-﻿1;-1;"";root
+1;-1;"";root
 2;1;left;two
 6;3;left;six
 5;2;right;five
