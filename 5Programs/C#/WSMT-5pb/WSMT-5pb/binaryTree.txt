@@ -1,0 +1,6 @@
+﻿1;0;"";root
+2;1;left;two
+6;3;left;six
+5;2;right;five
+4;2;left;four
+3;1;right;three
