@@ -6,7 +6,7 @@ namespace WSMT_5pb
 {
     public class Repository
     {
-        private readonly List<Node> nodeCollection = new List<Node>();
+        private readonly List<Node> nodeCollection;
 
         public Repository(DataAccess dataAccess)
         {

@@ -6,7 +6,7 @@ namespace WSMT_5pb
 {
     public class DataAccess
     {
-        private string filename;
+        private readonly string filename;
 
         public DataAccess(string filename)
         {
@@ -22,8 +22,8 @@ namespace WSMT_5pb
 
                 foreach (string line in lines)
                 {
-                    string[] splittedLine = line.Split(';');
-                    Node node = new Node(Int32.Parse(splittedLine[0]), Int32.Parse(splittedLine[1]), splittedLine[2].ToString(), splittedLine[3].ToString());
+                    string[] splitLine = line.Split(';');
+                    Node node = new Node(Int32.Parse(splitLine[0]), Int32.Parse(splitLine[1]), splitLine[2], splitLine[3]);
                     nodes.Add(node);
                 }
             }
