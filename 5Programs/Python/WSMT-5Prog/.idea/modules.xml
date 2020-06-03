@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WSMT-5Prog.iml" filepath="$PROJECT_DIR$/.idea/WSMT-5Prog.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WSMT-BinaryTree/.idea/WSMT-BinaryTree.iml" filepath="$PROJECT_DIR$/../WSMT-BinaryTree/.idea/WSMT-BinaryTree.iml" />
     </modules>
   </component>
